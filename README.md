@@ -14,5 +14,6 @@ This project is based on the curriculum on [theOdinProject](https://www.theodinp
 
 ## Finished work
 
-   [Blogger](https://lit-dawn-86296.herokuapp.com/articles)
-![Blooger Screenshot](app/assets/images/Screenshot_2020-02-23 Blogger.png?raw=true "Blogger 2")
+   Visit [Blogger](https://lit-dawn-86296.herokuapp.com/articles) and explore.
+   
+   ![](app/assets/images/Screenshot_2020-02-23%20Blogger.png?raw=true "Blogger 2")
