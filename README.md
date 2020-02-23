@@ -1,4 +1,4 @@
-# Blogger
+# Blogger 2
 
 In this project I created a simple blog system and learn the basics of Ruby on Rails including:
 
@@ -15,5 +15,5 @@ This project is based on the curriculum on [theOdinProject](https://www.theodinp
 ## Finished work
 
    Visit [Blogger](https://lit-dawn-86296.herokuapp.com/articles) and explore.
-   
-   ![](app/assets/images/Screenshot_2020-02-23%20Blogger.png?raw=true "Blogger 2")
+
+   ![blooger screenshot](app/assets/images/Screenshot_2020-02-23%20Blogger.png?raw=true "Blogger 2")
