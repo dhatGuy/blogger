@@ -13,7 +13,7 @@ In this project I created a simple blog system and learn the basics of Ruby on R
 This project is based on the curriculum on [theOdinProject](https://www.theodinproject.com) with the tutorial from [Jumpstartlab](http://tutorials.jumpstartlab.com/projects/blogger.html)
 
 ## Issues 
-   Articles can be deleted by Authors who didn't create the post 😔
+   Posts can be deleted by Authors who didn't create the post 😔
 
 ## Finished work
 
